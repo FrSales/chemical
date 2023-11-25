@@ -16,8 +16,8 @@
  * adaptarem ao seu projeto
  */
 import 'dart:io';
-import 'package:chemical/periodic_table.dart';
-import 'package:chemical/molecule.dart';
+import '../molecule.dart';
+import '../periodicTable.dart';
 
 /*
  * Exibe uma linha traceja na tela
